@@ -17,12 +17,12 @@
 - Contributed to the final project presentation,
   communicating data insights and product functionality.
 
-  ## Acknowledgments
+## Acknowledgments
 
 Lectura was developed as a collaborative project through
 Data Club and Campus AI at the University of Michigan.
 
-  ## Data Privacy
+## Data Privacy
 
 The student dataset included in this repository is
 synthetically generated for development and demonstration
